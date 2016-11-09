@@ -1,0 +1,9 @@
+{
+	"app":"cordovaApp/platforms/ios/build/emulator/Hello World.app", 
+	"deviceName": "iPad Air",
+	"platformName": "iOS",
+	"platformVersion": "10.0",
+	"orientation": "PORTRAIT",
+	"automationName": "XCUITest",
+	"bundleId": "com.phonegap.helloworld"
+}

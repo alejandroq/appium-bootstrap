@@ -1,0 +1,1 @@
+appium --default-capabilities config.json
