@@ -1,0 +1,19 @@
+{
+  "name": "appiumbootstrap",
+  "version": "1.0.0",
+  "description": "quickly bootstrap an appium suite for a cordova application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroq/appium-bootstrap.git"
+  },
+  "author": "alejandro r quesada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandroq/appium-bootstrap/issues"
+  },
+  "homepage": "https://github.com/alejandroq/appium-bootstrap#readme"
+}
